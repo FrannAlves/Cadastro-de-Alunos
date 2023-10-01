@@ -31,31 +31,31 @@ Listagem de Alunos por Curso: Obtenha uma lista de alunos que estão matriculado
 
 ### Listar alunos
 
-![listar](C:\Users\Fran\Desktop\PARA O GITHUB\Cadastro de alunos\imagens\LISTAR.png)
+![listar](https://github.com/FrannAlves/Cadastro-de-Alunos/blob/master/imagens/LISTAR.png?raw=true)
 
 ### Atualizar um aluno
 
-![atualizar](C:\Users\Fran\Desktop\PARA O GITHUB\Cadastro de alunos\imagens\ATUALIZAR.png)
+![atualizar](https://github.com/FrannAlves/Cadastro-de-Alunos/blob/master/imagens/ATUALIZAR.png?raw=true)
 
 ### Depois de Atualizar
 
-![depois de atualizar](C:\Users\Fran\Desktop\PARA O GITHUB\Cadastro de alunos\imagens\DEPOIS DA ATUALIZAÇAO.png)
+![depois de atualizar](https://github.com/FrannAlves/Cadastro-de-Alunos/blob/master/imagens/DEPOIS%20DA%20ATUALIZA%C3%87AO.png?raw=true)
 
 ### Excluir um aluno
 
-![excluir](C:\Users\Fran\Desktop\PARA O GITHUB\Cadastro de alunos\imagens\EXCLUIR.png)
+![excluir](https://github.com/FrannAlves/Cadastro-de-Alunos/blob/master/imagens/EXCLUIR.png?raw=true)
 
 ### Depois de excluir aluno
 
-![dpois de excluir](C:\Users\Fran\Desktop\PARA O GITHUB\Cadastro de alunos\imagens\DEPOIS DE EXCLUIR.png)
+![dpois de excluir](https://github.com/FrannAlves/Cadastro-de-Alunos/blob/master/imagens/DEPOIS%20DE%20EXCLUIR.png?raw=true)
 
 ### Atualizar o curso de um aluno
 
-![Atualizar curso](C:\Users\Fran\Desktop\PARA O GITHUB\Cadastro de alunos\imagens\ATUALIZAR CURSO.png)
+![Atualizar curso](https://github.com/FrannAlves/Cadastro-de-Alunos/blob/master/imagens/ATUALIZAR%20CURSO.png?raw=true)
 
 ### Retornar um aluno
 
-![retornar aluno](C:\Users\Fran\Desktop\PARA O GITHUB\Cadastro de alunos\imagens\RETORNAR UM ALUNO.png)
+![retornar aluno](https://github.com/FrannAlves/Cadastro-de-Alunos/blob/master/imagens/RETORNAR%20UM%20ALUNO.png?raw=true)
 
 
 ## Pré-requisitos
