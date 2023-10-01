@@ -27,7 +27,7 @@ Listagem de Alunos por Curso: Obtenha uma lista de alunos que estão matriculado
 
 ### cadastro de um aluno
 
-![Cadastro](C:\Users\Fran\Desktop\PARA O GITHUB\Cadastro de alunos\imagens\CADASTRAR.png)
+![Cadastro](https://github.com/FrannAlves/Cadastro-de-Alunos/blob/master/imagens/CADASTRAR.png?raw=true)
 
 ### Listar alunos
 
