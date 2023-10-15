@@ -61,4 +61,7 @@ Listagem de Alunos por Curso: Obtenha uma lista de alunos que estão matriculado
 ## Pré-requisitos
 Certifique-se de que você tenha o Node.js instalado em seu ambiente de desenvolvimento.
 
+## Contribuição
+Aceitamos contribuições! Sinta-se à vontade para criar pull requests e contribuir para o projeto.
+
 
